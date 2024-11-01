@@ -19,7 +19,8 @@
 
 - 📄 Know about my experiences [https://bold.pro/my/simon-michael-240910220129](https://bold.pro/my/simon-michael-240910220129)
 
-- ⚡ Fun fact **I can wiggle my ears! :D**
+- ⚡ Fun fact 
+**I can wiggle my ears! :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
