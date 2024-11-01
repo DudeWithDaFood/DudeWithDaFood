@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sami Ibrahim Tarik</h1>
+<h1 align="center">Hi 👋, I'm Simon Tarik Michael</h1>
 <h3 align="center">An aspiring data analyst from Virginia</h3>
 
 <p align="left"> <a href="https://twitter.com/dudewithdafood" target="blank"><img src="https://img.shields.io/twitter/follow/dudewithdafood?logo=twitter&style=for-the-badge" alt="dudewithdafood" /></a> </p>
